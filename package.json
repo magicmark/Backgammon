@@ -1,0 +1,23 @@
+{
+  "name": "Backgammon",
+  "version": "1.0.0",
+  "description": "Backgammon client-server app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicmark/Backgammon.git"
+  },
+  "author": "Mark Larah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicmark/Backgammon/issues"
+  },
+  "homepage": "https://github.com/magicmark/Backgammon",
+  "dependencies": {
+    "express": "~4.9.8",
+    "mongodb": "~1.4.19"
+  }
+}
